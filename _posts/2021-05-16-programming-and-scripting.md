@@ -7,7 +7,7 @@ tags: [Languages]
 math: true
 mermaid: true
 image:
-  src: /assests/images/languages-cover.png
+  src: /assets/images/languages-cover.png
 ---
 
 # Programming And Scripting Languages
