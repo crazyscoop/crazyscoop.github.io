@@ -25,7 +25,7 @@ Example: Java, C, C++.
 
 
 ## What is Scripting Language?
-**Scripting languages** are high level, general-purpose language which is dynamic in nature. A scripting language is a programming language that does not require an explicit step of compilation. Scripting languages are often interpreted rather than compiled.
+**Scripting languages** are high level, general-purpose language which are dynamic in nature. A scripting language is a programming language that does not require an explicit step of compilation. Scripting languages are often interpreted rather than compiled.
 Example: Python, JavaScript, Php.
 
 
